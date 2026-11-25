@@ -76039,5 +76039,12 @@
     "author": "magicbaobao",
     "description": "把「得到大脑（Get笔记）」搬进本地库：三栏 Markdown 笔记面板，浏览、搜索、编辑、反链、大纲、标签全部离线可用；云端同步与录音卡导入是可选增强. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "magicbaobaoli/obsidian-getnote"
+  },
+  {
+    "id": "memos-bridge",
+    "name": "Memos Bridge",
+    "author": "wymen",
+    "description": "Sync your self-hosted Memos (supports latest /api/memos and legacy /api/v1) into Obsidian with attachment auto-download and non-destructive note updates.",
+    "repo": "santimental0617-cyber/obsidian-memos-bridge"
   }
 ]
